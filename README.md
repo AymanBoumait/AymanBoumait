@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
-<h3 align="center">A Gamer and a developer</h3>
+<h3 align="center">A Gamer and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymanboumait&label=Profile%20views&color=0e75b6&style=flat" alt="aymanboumait" /> </p>
 
